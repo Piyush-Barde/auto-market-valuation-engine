@@ -9,7 +9,7 @@ import os
 import warnings
 
 # --- CONFIGURATION ---
-CSV_FILE_PATH = r'C:\Users\vishwa\Downloads\cardekho.csv'
+CSV_FILE_PATH = r'sC:\Users\chand\OneDrive\Desktop\vishwa\data\cardekho.csv'
 CURRENT_YEAR = 2026
 RANDOM_STATE = 42
 warnings.filterwarnings('ignore')
